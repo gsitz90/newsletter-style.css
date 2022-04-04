@@ -13,3 +13,7 @@
 .img:hover {
     opacity: .3;
 }
+
+h1 {
+    font-size: 100px;
+}
