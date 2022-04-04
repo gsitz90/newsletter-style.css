@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" type="text/css" href="">
+</head>
+<body>
+    <div class="img-block">
+        <img src="https://cdn11.bigcommerce.com/s-t8d1s/product_images/uploaded_images/iwb-holsters-bottom-link.jpg?t=1649094218&_gl=1*1lw22v2*_ga*MjMwMzc0NDYyLjE2MjQzMDg2OTI.*_ga_WS2VZYPC6G*MTY0OTA5NDE5Ny44OTcuMS4xNjQ5MDk0MjAyLjU1" class="img">
+    </div>
+</body>
+</html>
